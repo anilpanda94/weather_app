@@ -279,5 +279,6 @@ line-height: 70px;
       .weather_details::-webkit-scrollbar-thumb {
         background: #282c49; 
         border-radius: 10px;
+        text-align: left;
       }
       
